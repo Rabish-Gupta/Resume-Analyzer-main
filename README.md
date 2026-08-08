@@ -1,4 +1,4 @@
-# Resume Analyzer
+# AI Resume Analyzer
 
 A small Python project to parse resumes and match them to job descriptions. It provides a simple pipeline for extracting text from resumes, modeling the important fields, and scoring matches against job requirements.
 
