@@ -16,12 +16,12 @@ from parser import (
 load_dotenv()
 
 st.set_page_config(
-    page_title="Resume Analyzer",
+    page_title="AI Resume Analyzer",
     page_icon="📄",
     layout="wide",
 )
 
-st.title("📄 Resume Analyzer + JD Matcher")
+st.title("📄 AI Resume Analyzer")
 st.write(
     "Upload a resume, extract structured information, "
     "and compare it with a Job Description."
